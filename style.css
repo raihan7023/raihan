@@ -1,0 +1,21 @@
+.error{
+    background: #ebe2e2;
+    font-family: sans-serif;
+    color: #de3131;
+}
+.header h2{
+    color: #aa1313;
+    font-weight:bold;
+
+}
+.header h5{
+    color: #120909;
+    font-weight: bold;
+     
+}
+.header{
+    background: #eef3ff;
+}
+.form{
+    background: #eef8ff;
+}
